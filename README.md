@@ -1,10 +1,5 @@
 # jetty-test
 
-
-## How to test
-	
-	java -jar app/target/dependency/jetty-runner.jar app/target/helloworld.war
-
 ## How to build
 	
 	docker build -t croco/jettytest .
