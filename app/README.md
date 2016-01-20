@@ -6,4 +6,4 @@
 
 ## How to test
 	
-	java -jar target/dependency/jetty-runner.jar app/target/helloworld.war
+	java -jar target/dependency/jetty-runner.jar target/helloworld.war
